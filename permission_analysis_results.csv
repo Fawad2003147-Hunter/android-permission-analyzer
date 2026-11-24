@@ -1,0 +1,4 @@
+APK,All_Declared_Permissions,Flagged_Over_Requests
+fdroid.apk,ERROR: 'bytes' object has no attribute 'version',None
+termux.apk,ERROR: 'bytes' object has no attribute 'version',None
+wikipedia.apk,ERROR: End of central directory record (EOCD) signature not found,None
